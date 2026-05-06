@@ -1,13 +1,13 @@
-package com.technical_research;
+package com.exploration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TechnicalResearchApplication {
+public class ExplorationApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TechnicalResearchApplication.class, args);
+        SpringApplication.run(ExplorationApplication.class, args);
     }
 
 }
